@@ -1,0 +1,4 @@
+Schabowy 3,49
+Zupa 1,16
+ZestawDnia 4,65
+Sushi 6,98

@@ -1,0 +1,4 @@
+Schabowy 15
+Zupa 5
+ZestawDnia 20
+Sushi 30

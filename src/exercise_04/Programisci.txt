@@ -1,0 +1,5 @@
+Jan Kowalski	Projekt1	Projekt2
+Jan Nowak	Projekt1	Projekt2
+Kamil Dzieniszewski	Projekt1	Projekt2	Projekt3
+Jeszcze Ktoś	Projekt1
+Michał Kowalski	Projekt3
